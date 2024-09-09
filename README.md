@@ -35,7 +35,7 @@ The Google Play Store offers over 2.56 million apps, playing a significant role 
    cd google-play-store-eda
    ```
 
-2. **Open the Jupyter Notebook**:
+2. **Open the Jupyter Notebook** :
 
    Run the analysis using Jupyter Notebook:
 
